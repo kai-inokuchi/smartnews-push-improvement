@@ -1,0 +1,5 @@
+.idea/
+*.iml
+target/
+*.p8
+*.DS_Store
