@@ -1,6 +1,7 @@
 # smartnews-push-improvement
 
-Pseudo codes for an article of SmartNews Engineering Blog.
+The pseudo codes in one of my articles in SmartNews Engineering Blog ([SmartNews のプッシュ通知配信が倍速になるまで
+](https://developer.smartnews.com/blog/2018/01/push-improvement/), "Making Push Notification Delivery Twice as Fast at SmartNews").
 
 ```bash
 $ mvn clean packge
